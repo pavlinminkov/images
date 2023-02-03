@@ -13,6 +13,7 @@ html {
 
 body {
     height: 100%;
+    opacity: 0.6;
     background: linear-gradient(0deg, #5675de, #ff90e9, #6bec40, #d6df57, #ffaa17);
     background-size: 400% 400%;
     animation: gradient 15s infinite;
